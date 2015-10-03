@@ -2,7 +2,7 @@
  * Öffimonitor - display the Wiener Linien timetable for nearby bus/tram/subway
  * lines on a screen in the Metalab Hauptraum
  *
- * Copyright (C) 2015   Moritz Wilhelmy
+ * Copyright (C) 2015   Moritz Wilhelmy & Bernhard Hayden
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
